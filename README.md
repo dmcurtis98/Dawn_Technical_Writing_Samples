@@ -1,7 +1,8 @@
 # Dawn's Technical Writing Portfolio
 
-This repository showcases my technical writing and documentation projects.  
-Each project demonstrates my ability to transform unstructured subject-matter-expert (SME) notes into clear, accurate, and compliant documentation.
+This portfolio contains self-directed projects that demonstrate professional-level technical writing skills. While new to the technical writing field, I've modeled these samples on real-world standards to show my ability to quickly contribute in a professional environment.
+
+Each project showcases my process for transforming unstructured subject-matter-expert (SME) notes into clear, accurate, and compliant documentation.
 
 ---
 
